@@ -20,7 +20,7 @@
 .intro{max-width:410px;margin:0;color:#c1c0b9;font-size:13px;line-height:1.65}
 .round-link{width:38px;height:38px;border-color:#ffffff3d;font-size:17px}
 .hero-index{position:absolute;bottom:28px;left:0;right:0;justify-content:space-between;margin:0;color:#96948c;font-size:8px;letter-spacing:.15em}
-/* .hero-art{position:absolute;top:3%;left:50%;transform:translateX(-50%);justify-self:auto;width:clamp(270px,34vw,440px);height:62%;aspect-ratio:auto;perspective:none;pointer-events:none} 
+.hero-art{position:absolute;top:3%;left:50%;transform:translateX(-50%);justify-self:auto;width:clamp(270px,34vw,440px);height:62%;aspect-ratio:auto;perspective:none;pointer-events:none} 
 .hero-art{top:1%;height:61%;width:clamp(270px,31vw,390px);}
 .portrait-shell{inset:0;overflow:hidden;border-radius:0;transform:none;box-shadow:none;mask-image:linear-gradient(to bottom,#000 0%,#000 67%,transparent 100%);-webkit-mask-image:linear-gradient(to bottom,#000 0%,#000 67%,transparent 100%)}
 .portrait-shell:after{background:linear-gradient(180deg,#10100e24 0%,#10100e10 50%,#10100e80 88%,#10100e 100%);mix-blend-mode:normal}
